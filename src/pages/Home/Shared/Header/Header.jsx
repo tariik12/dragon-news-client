@@ -16,8 +16,8 @@ const Header = () => {
            <Marquee className='text-danger' speed={200} gradientColor={[2, 255, 25]}>
   I can be a React component, multiple React components, or just some text.
 </Marquee>
-           </div>
-           <Navbar collapseOnSelect expand="lg" bg="light" variant="light">
+           </div >
+           <Navbar className='mt-4' collapseOnSelect expand="lg" bg="light" variant="light">
       <Container>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">

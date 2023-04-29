@@ -16,3 +16,6 @@ see documentation [moment Js](https://momentjs.com/)
 
 ## React FAST Marquee For Animation
 see documentation [Marquee](https://www.react-fast-marquee.com/)
+
+## React Icons
+see documentation [Icons](https://react-icons.github.io/react-icons/)
