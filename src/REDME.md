@@ -19,3 +19,6 @@ see documentation [Marquee](https://www.react-fast-marquee.com/)
 
 ## React Icons
 see documentation [Icons](https://react-icons.github.io/react-icons/)
+
+## React Ratings
+see documentation [Ratings](https://www.npmjs.com/package/react-rating)
