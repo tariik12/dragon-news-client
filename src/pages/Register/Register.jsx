@@ -8,6 +8,14 @@ const Register = () => {
             <h3>Please Login</h3>
             <Form className='mx-auto w-25'>
                 <Form.Group className="mb-3" controlId="formBasicEmail">
+                    <Form.Label>Name</Form.Label>
+                    <Form.Control type="text" name='name' placeholder="Enter email" required/>
+                </Form.Group>
+                <Form.Group className="mb-3" controlId="formBasicEmail">
+                    <Form.Label>Photo</Form.Label>
+                    <Form.Control type="email" name='photo' placeholder="Enter email" required/>
+                </Form.Group>
+                <Form.Group className="mb-3" controlId="formBasicEmail">
                     <Form.Label>Email</Form.Label>
                     <Form.Control type="email" placeholder="Enter email" required/>
                 </Form.Group>
